@@ -29,4 +29,15 @@ Create and save in DB a class model for a Quiz Application
 ### HOW TO RUN:
 - Implement test cases with JUnit
 
+## 2. Used technologies
+- Java 19
+- PostgreSQL 13.2
+
+## 3. How to run
+- Clone the repository
+- Open the project in IntelliJ IDEA
+- Run the project using JUnit
+- 
+
+
 

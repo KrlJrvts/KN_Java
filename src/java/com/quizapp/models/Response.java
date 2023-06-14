@@ -1,4 +1,4 @@
-package java.models;
+package com.quizapp.models;
 
 public class Response {
 

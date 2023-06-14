@@ -1,4 +1,4 @@
-package java.service;
+package com.quizapp.service;
 
 public class QuizService {
 }
